@@ -21,3 +21,12 @@ main {
   margin: 50px;
   background: #151D26;
 }
+
+pre {
+  color: white;
+  white-space: pre-wrap;
+  position: absolute;
+  bottom: 0;
+  padding: 40px;
+  border-top: 1px solid #394149;
+}
