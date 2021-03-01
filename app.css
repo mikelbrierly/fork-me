@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #12161C;
+}
+main {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fork-banner-container {
+  width: 95%;
+  max-width: 600px;
+  height: 400px;
+  position: relative;
+  border: 1px solid #394149;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 50px;
+  background: #151D26;
+}
